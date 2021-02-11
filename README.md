@@ -1,1 +1,1 @@
-# DS---Stack-Problems-Hackerrank-GFG-
+# DS---Stack-Problems-Hackerrank
